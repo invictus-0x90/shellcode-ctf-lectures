@@ -1,0 +1,4 @@
+break *main+56
+break *0x80485de
+break *0x8048625
+
